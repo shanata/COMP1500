@@ -1,0 +1,14 @@
+c:\Csharpstudy\01_HelloWorld\bin\Debug\net9.0\01_HelloWorld.exe
+c:\Csharpstudy\01_HelloWorld\bin\Debug\net9.0\01_HelloWorld.deps.json
+c:\Csharpstudy\01_HelloWorld\bin\Debug\net9.0\01_HelloWorld.runtimeconfig.json
+c:\Csharpstudy\01_HelloWorld\bin\Debug\net9.0\01_HelloWorld.dll
+c:\Csharpstudy\01_HelloWorld\bin\Debug\net9.0\01_HelloWorld.pdb
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.AssemblyInfoInputs.cache
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.AssemblyInfo.cs
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.csproj.CoreCompileInputs.cache
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.dll
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\refint\01_HelloWorld.dll
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.pdb
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\01_HelloWorld.genruntimeconfig.cache
+c:\Csharpstudy\01_HelloWorld\obj\Debug\net9.0\ref\01_HelloWorld.dll
