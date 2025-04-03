@@ -1,0 +1,6 @@
+# C# 관련 무시할 파일들
+bin/
+obj/
+.vscode/
+*.user
+*.suo
