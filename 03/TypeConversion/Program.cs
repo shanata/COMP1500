@@ -20,7 +20,7 @@ namespace TypeConversion
             float float2 = 3.14159f;
             int float2ToInt = (int)float2;
 
-            int int2 = 1;
+            int int2 = -1;
             uint int2ToUInt = (uint)int2;
 
             Console.WriteLine("int1: " + int1);
