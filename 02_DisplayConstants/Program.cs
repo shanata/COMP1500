@@ -5,11 +5,11 @@ namespace DisplayConstants
     {
         static void Main(string[] args)
         {
-            Console.Write(30);
-            Console.WriteLine(30.1);
-            Console.WriteLine(30.2f);
-            Console.Write(true);
-            Console.Write('p');
+            Console.Write(30); //int형
+            Console.WriteLine(30.1); //double형
+            Console.WriteLine(30.2f); //float형
+            Console.Write(true); //bool형
+            Console.Write('p'); //char형otnet sln add 02_POCU/**/*.csproj
         
         }
     }

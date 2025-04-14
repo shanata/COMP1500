@@ -9,10 +9,10 @@ namespace InsertStudentInformation2
             Console.WriteLine("Let's fill out student grade:");
 
             Console.Write("Name: ");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine()!;
 
             Console.Write("Grade: ");
-            string gradeString = Console.ReadLine();
+            string gradeString = Console.ReadLine()!;
             int grade = int.Parse(gradeString);
 
             if (grade >= 90)

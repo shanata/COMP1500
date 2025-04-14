@@ -8,14 +8,14 @@ namespace InsertStudentInformation{
             Console.WriteLine("Let's fill out student information:");
 
             Console.Write("Name: ");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine()!;
 
             Console.Write("Student Number: ");
-            string studentNumberString = Console.ReadLine();
+            string studentNumberString = Console.ReadLine()!;
             int studentNumber = int.Parse(studentNumberString);
 
             Console.Write("Grade: ");
-            string gradeString = Console.ReadLine();
+            string gradeString = Console.ReadLine()!;
             int grade = int.Parse(gradeString);
 
             Console.WriteLine("-----------------------------------");

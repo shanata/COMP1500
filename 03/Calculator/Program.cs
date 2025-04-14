@@ -34,7 +34,7 @@ namespace Calculator
             Console.WriteLine("result5: " + result5);
             Console.WriteLine("result6: " + result6);
 
-            float result7 = num2 * num4;
+            float result7 = num2 * num4; //11 /2.3
 
             Console.WriteLine("result7: " + result7);
 
