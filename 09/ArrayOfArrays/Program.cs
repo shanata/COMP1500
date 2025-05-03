@@ -19,7 +19,7 @@ namespace ArrayOfArrays
             while(true)
             {
                 Console.Write("Enter the Month (1-12): ");
-                string monthstring = Console.ReadLine();
+                string monthstring = Console.ReadLine()!;
                 int month = int.Parse(monthstring);
 
                 if (0 >= month || month > 12)
@@ -30,7 +30,7 @@ namespace ArrayOfArrays
                 }
 
                 Console.Write($"Enter the Day (1- {calendar[month-1].Length}): ");
-                string dayString = Console.ReadLine();
+                string dayString = Console.ReadLine()!;
                 int day = int.Parse(dayString);
 
                 if (  0 >= day || day > calendar[month-1].Length)
@@ -40,7 +40,7 @@ namespace ArrayOfArrays
                 }
 
                 Console.WriteLine("Enter your Schedule: ");
-                string schedule = Console.ReadLine();
+                string schedule = Console.ReadLine()!;
                 calendar[month - 1][day - 1] = schedule;
 
                 Console.WriteLine("-----------------------------");
